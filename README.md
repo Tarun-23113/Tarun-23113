@@ -44,7 +44,7 @@ I'm looking for an **𝗶𝗻𝘁𝗲𝗿𝗻𝘀𝗵𝗶𝗽** where I can appl
 
   🧠 <b>𝗕𝗿𝗮𝗶𝗻 𝗧𝘂𝗺𝗼𝗿 𝗗𝗲𝘁𝗲𝗰𝘁𝗶𝗼𝗻</b><br>
   Deep learning on MRI images using VGG16 CNN architecture<br>
-  🔗 <a href="https://github.com/Tarun-23113/brain-tumor-detection">github.com/Tarun-23113/brain-tumor-detection</a>
+  🔗 <a href="https://github.com/Tarun-23113/BrainTumorModel">github.com/Tarun-23113/brain-tumor-detection</a>
 
 </p>
 
