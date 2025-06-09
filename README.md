@@ -5,13 +5,6 @@
 
 ---
 
-<!-- Snake animation -->
-<p align="center">
-  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="snake animation" />
-</p>
-
----
-
 ## 🚀 About Me
 
 ```python
@@ -21,14 +14,16 @@ class TarunTiwari:
         self.status = 'Exploring Data Science, ML & DevOps'
         self.focus = 'Build real-world AI-powered solutions'
         self.fun_fact = 'I can debug a bug just by staring at the screen!'
-
 🛠️ Tech Toolbox
 <p align="center"> <img src="https://skillicons.dev/icons?i=python,java,sql,git,github,linux,docker,postman,pytorch,vscode" /> </p>
-
 📈 GitHub Metrics
 <div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Tarun-23113&show_icons=true&theme=radical" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=Tarun-23113&theme=radical" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tarun-23113&layout=compact&theme=radical" /> </div>
+📚 Highlight Repositories
+🗂️ Project	📄 Description
+Brain Tumor Detection 🧠	CNN model using VGG16 for medical image classification
+DataViz Dashboard 📊	Built with Pandas, Seaborn, and Streamlit
+SQL Case Studies 📁	Business queries with joins, windows, and metrics
 
 ✨ Connect with Me
 <p align="center"> <a href="https://www.linkedin.com/in/taruntiwari03/"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin" /></a> <a href="mailto:taruntiwari@email.com"><img src="https://img.shields.io/badge/-Email-white?style=flat&logo=gmail" /></a> <a href="https://github.com/Tarun-23113"><img src="https://img.shields.io/badge/-GitHub-black?style=flat&logo=github" /></a> </p>
-
 <p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/> </p> ```
