@@ -65,31 +65,56 @@ I'm looking for an **𝗶𝗻𝘁𝗲𝗿𝗻𝘀𝗵𝗶𝗽** where I can appl
 
 ---
 
-<h3 align="center">📜 𝗖𝗘𝗥𝗧𝗜𝗙𝗜𝗖𝗔𝗧𝗜𝗢𝗡𝗦 & 𝗕𝗔𝗗𝗚𝗘𝗦</h3>
+<h3 align="center">📜 <strong>CERTIFICATIONS & BADGES</strong></h3>
 
-<p align="center" class="badge-container">
-  <a href="https://your-link-to-ibm-certificate.com" target="_blank" title="IBM Data Science Professional Certificate">
-    <img src="https://img.icons8.com/color/96/ibm.png" alt="IBM Badge"/>
-  </a>
-  <a href="https://your-link-to-aws-certificate.com" target="_blank" title="AWS Cloud Foundations">
-    <img src="https://img.icons8.com/color/96/amazon-web-services.png" alt="AWS Badge"/>
-  </a>
-  <a href="https://your-link-to-nasscom-certificate.com" target="_blank" title="Nasscom ML - Linear Regression">
-    <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/96/external-nasscom-a-non-profit-organisation-that-handles-it-industry-in-india-logo-shadow-tal-revivo.png" alt="Nasscom Badge"/>
-  </a>
-  <a href="https://your-link-to-nvidia-certificate.com" target="_blank" title="NVIDIA Deep Learning Certificate">
-    <img src="https://img.icons8.com/color/96/nvidia.png" alt="NVIDIA Badge"/>
-  </a>
-  <a href="https://your-link-to-aicte-internship.com" target="_blank" title="AICTE Virtual Internship - GenAI">
-    <img src="https://img.icons8.com/ios-filled/96/artificial-intelligence.png" alt="AICTE Badge"/>
-  </a>
-  <a href="https://your-link-to-research-paper.com" target="_blank" title="Research Paper Published">
-    <img src="https://img.icons8.com/fluency/96/google-scholar.png" alt="Research Badge"/>
-  </a>
-  <a href="https://your-link-to-achievement-badge.com" target="_blank" title="Special Achievement Badge">
-    <img src="https://img.icons8.com/color/96/medal2--v1.png" alt="Achievement Badge"/>
-  </a>
-</p>
+<!-- Row 1 -->
+<table align="center">
+  <tr>
+      <td align="center" width="200px">
+      <a href="https://drive.google.com/file/d/1-jnsbHRT-w3M0CTyr7z1uBAqWk3NAsFB/view?usp=sharing" target="_blank">
+        <img src="https://github.com/Tarun-23113/Tarun-23113/blob/main/SCITEPRESS%20Digital%20Library.png" width="90px"/><br/>
+      </a>
+      <font face="Segoe UI, Verdana" size="2"><b><i>Research Paper – INCOFT 2025</i></b></font>
+    </td>
+    <td align="center" width="200px">
+      <a href="https://drive.google.com/file/d/1LDVAmoIAoEefcHUdlH5M8ElKs68NKAO8/view?usp=sharing" target="_blank">
+        <img src="https://github.com/Tarun-23113/Tarun-23113/blob/main/AICTE%20Generative%20AI%20Virtual%20Internship.png" width="90px"/><br/>
+      </a>
+      <font face="Segoe UI, Verdana" size="2"><b><i>Generative AI Virtual Internship</i></b></font>
+    </td>
+    <td align="center" width="200px">
+      <a href="https://drive.google.com/file/d/1ewb9wzNE44UZNh42kWfTipYmQ4DAkaaf/view?usp=sharing" target="_blank">
+        <img src="https://github.com/Tarun-23113/Tarun-23113/blob/main/AWS%20Cloud%20Foundation.png" width="90px"/><br/>
+      </a>
+      <font face="Segoe UI, Verdana" size="2"><b><i>AWS Cloud Foundations</i></b></font>
+    </td>
+  </tr>
+</table>
+
+<!-- Row 2 -->
+<table align="center">
+  <tr>
+    <td align="center" width="200px">
+      <a href="https://drive.google.com/file/d/1TWxcDrs4wX2Tag0PwQ02IFeStC2MYDPV/view?usp=sharing" target="_blank">
+        <img src="https://github.com/Tarun-23113/Tarun-23113/blob/main/IBM%20Data%20Science.png" width="90px"/><br/>
+      </a>
+      <font face="Segoe UI, Verdana" size="2"><b><i>IBM Data Science Certificate</i></b></font>
+    </td>
+    <td align="center" width="200px">
+      <a href="https://drive.google.com/file/d/1atkj7JyEgTSwpfoGwAwF-Y-5DWtsKwou/view?usp=sharing" target="_blank">
+        <img src="https://github.com/Tarun-23113/Tarun-23113/blob/main/NASSCOM%20Linear%20Regression.png" width="90px"/><br/>
+      </a>
+      <font face="Segoe UI, Verdana" size="2"><b><i>ML - Linear Regression   NASSCOM</i></b></font>
+    </td>
+    <td align="center" width="200px">
+      <a href="https://drive.google.com/file/d/1nDCh3gDLKxVb38l098RslGfraD7OgVCR/view?usp=sharing" target="_blank">
+        <img src="https://github.com/Tarun-23113/Tarun-23113/blob/main/NVIDIA%20Deep%20Learning.png" width="90px"/><br/>
+      </a>
+      <font face="Segoe UI, Verdana" size="2"><b><i>Deep Learning Foundation – NVIDIA</i></b></font>
+    </td>
+    
+  </tr>
+</table>
 
 ---
 
