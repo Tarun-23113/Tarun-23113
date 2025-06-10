@@ -36,7 +36,6 @@ I'm looking for an **𝗶𝗻𝘁𝗲𝗿𝗻𝘀𝗵𝗶𝗽** where I can appl
 
 ---
 
----
 
 ### 🚀 𝗣𝗥𝗢𝗝𝗘𝗖𝗧𝗦
 
@@ -62,6 +61,34 @@ I'm looking for an **𝗶𝗻𝘁𝗲𝗿𝗻𝘀𝗵𝗶𝗽** where I can appl
   ML classification model to detect churned customers<br>
   🔗 <a href="https://github.com/Tarun-23113/customer-churn-prediction">github.com/Tarun-23113/customer-churn-prediction</a>
 
+</p>
+
+---
+
+<h3 align="center">📜 𝗖𝗘𝗥𝗧𝗜𝗙𝗜𝗖𝗔𝗧𝗜𝗢𝗡𝗦 & 𝗕𝗔𝗗𝗚𝗘𝗦</h3>
+
+<p align="center" class="badge-container">
+  <a href="https://your-link-to-ibm-certificate.com" target="_blank" title="IBM Data Science Professional Certificate">
+    <img src="https://img.icons8.com/color/96/ibm.png" alt="IBM Badge"/>
+  </a>
+  <a href="https://your-link-to-aws-certificate.com" target="_blank" title="AWS Cloud Foundations">
+    <img src="https://img.icons8.com/color/96/amazon-web-services.png" alt="AWS Badge"/>
+  </a>
+  <a href="https://your-link-to-nasscom-certificate.com" target="_blank" title="Nasscom ML - Linear Regression">
+    <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/96/external-nasscom-a-non-profit-organisation-that-handles-it-industry-in-india-logo-shadow-tal-revivo.png" alt="Nasscom Badge"/>
+  </a>
+  <a href="https://your-link-to-nvidia-certificate.com" target="_blank" title="NVIDIA Deep Learning Certificate">
+    <img src="https://img.icons8.com/color/96/nvidia.png" alt="NVIDIA Badge"/>
+  </a>
+  <a href="https://your-link-to-aicte-internship.com" target="_blank" title="AICTE Virtual Internship - GenAI">
+    <img src="https://img.icons8.com/ios-filled/96/artificial-intelligence.png" alt="AICTE Badge"/>
+  </a>
+  <a href="https://your-link-to-research-paper.com" target="_blank" title="Research Paper Published">
+    <img src="https://img.icons8.com/fluency/96/google-scholar.png" alt="Research Badge"/>
+  </a>
+  <a href="https://your-link-to-achievement-badge.com" target="_blank" title="Special Achievement Badge">
+    <img src="https://img.icons8.com/color/96/medal2--v1.png" alt="Achievement Badge"/>
+  </a>
 </p>
 
 ---
