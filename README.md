@@ -81,7 +81,7 @@ I'm looking for an **𝗶𝗻𝘁𝗲𝗿𝗻𝘀𝗵𝗶𝗽** where I can appl
 ### 🔗 Connect with Me
 
 <p align="center">
-  <a href="https://linkedin.com/in/tarun-tiwari">
+  <a href="www.linkedin.com/in/tarun-tiwari-0b1621283">
     <img src="https://img.shields.io/badge/LinkedIn-%231DA1F2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
