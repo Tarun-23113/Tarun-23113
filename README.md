@@ -23,7 +23,7 @@ I'm looking for an **𝗶𝗻𝘁𝗲𝗿𝗻𝘀𝗵𝗶𝗽** where I can appl
 
 #### 📌 𝗣𝗿𝗼𝗴𝗿𝗮𝗺𝗺𝗶𝗻𝗴 𝗟𝗮𝗻𝗴𝘂𝗮𝗴𝗲𝘀 & 𝗟𝗶𝗯𝗿𝗮𝗿𝗶𝗲𝘀
 - **𝗣𝘆𝘁𝗵𝗼𝗻**: `Numpy`, `Pandas`, `Matplotlib`, `Seaborn`  
-- **𝗦𝗤𝗟**: MySQL (Schema design, Joins, Queries)  
+- **𝗦𝗤𝗟**: `MySQL` (`Advanced Joins`, `Window Functions`, `Query Optimization`, `Schema Design`)  
 - **𝗝𝗮𝘃𝗮**: Strong DSA fundamentals  
 
 #### ⚒️ 𝗧𝗼𝗼𝗹𝘀 & 𝗙𝗿𝗮𝗺𝗲𝘄𝗼𝗿𝗸𝘀
