@@ -39,27 +39,48 @@ I'm looking for an **𝗶𝗻𝘁𝗲𝗿𝗻𝘀𝗵𝗶𝗽** where I can appl
 
 ### 🚀 𝗣𝗥𝗢𝗝𝗘𝗖𝗧𝗦
 
+<p align="left" style="font-family: Perpetua, serif;">
+  <strong style="font-size: 20px;">🧠 𝗕𝗿𝗮𝗶𝗻 𝗧𝘂𝗺𝗼𝗿 𝗖𝗹𝗮𝘀𝘀𝗶𝗳𝗶𝗰𝗮𝘁𝗶𝗼𝗻</strong><br>
+  <em style="font-size: 15px;">AI That Sees What You Can’t 🔍</em><br>
+  <div align="left" style="display: inline-block; text-align: left; max-width: 600px; margin: 0 auto;">
+  &nbsp;&nbsp;🚀 <b>Model:</b> VGG16-based CNN, fine-tuned for high-accuracy classification across <b>17 tumor types</b><br>
+  &nbsp;&nbsp;🧪 <b>Performance:</b> <code>95.06%</code> training accuracy, <code>86.46%</code> test accuracy<br>
+  &nbsp;&nbsp;🛠️ <b>Features:</b> Data augmentation, batch normalization, optimizer tuning, and evaluation using <i>F1 Score</i>, <i>SSIM</i>, and <i>Specificity</i><br>
+  &nbsp;&nbsp;⚠️ <b>Challenges Tackled:</b> Class imbalance, overfitting, and diagnostic misclassification<br><br>
+
+  &nbsp;&nbsp;🔗 <b>GitHub Repo:</b> <a href="https://github.com/Tarun-23113/BrainTumorModel" target="_blank">Link to Repository for more details</a><br>
+  &nbsp;&nbsp;🔬 <b>Live Demo:</b> <a href="https://tumordetection-jd9cbxjgyb5glaiaxxgpgu.streamlit.app/" target="_blank">Click here to try the model</a><br>
+  &nbsp;&nbsp;📝 <b>Research Paper:</b> <a href="https://drive.google.com/file/d/1-jnsbHRT-w3M0CTyr7z1uBAqWk3NAsFB/view?usp=sharing" target="_blank">Certificate by (INCOFT 2025)</a>
+  </div>
+</p>
+<br>
 <p align="center">
 
-  🧠 <b>𝗕𝗿𝗮𝗶𝗻 𝗧𝘂𝗺𝗼𝗿 𝗗𝗲𝘁𝗲𝗰𝘁𝗶𝗼𝗻</b><br>
-  Deep learning on MRI images using VGG16 CNN architecture<br>
-  🔗 <a href="https://github.com/Tarun-23113/BrainTumorModel">github.com/Tarun-23113/brain-tumor-detection</a>
+  📊 <b>𝗪𝗵𝗮𝘁 𝗠𝗮𝗸𝗲𝘀 𝗮 𝗦𝘁𝗮𝗿𝘁𝘂𝗽 𝗦𝘂𝗰𝗰𝗲𝗲𝗱?</b><br>
+  Exploratory data analysis on a Kaggle startup dataset to uncover success factors using Python, Pandas, Matplotlib & Seaborn<br>
+
+  🔍 <b>Key Insights:</b><br>
+  • Startups with higher funding, more funding rounds, and more investors are more likely to IPO or get acquired<br>
+  • Post-2000 startups show a higher yearly closure rate<br>
+  • Success is less tied to sector, and more linked to funding-related metrics<br>
+
+  🔗 <a href="https://github.com/Tarun-23113/My_Python_Projects/blob/master/Projects/What_Makes_Startups_Succeed%3F.ipynb" target="_blank">github.com/Tarun-23113/sales-forecasting</a>
 
 </p>
-
+<br>
 <p align="center">
 
-  📈 <b>𝗦𝗮𝗹𝗲𝘀 𝗙𝗼𝗿𝗲𝗰𝗮𝘀𝘁𝗶𝗻𝗴</b><br>
-  Time Series + Regression model to predict future sales<br>
-  🔗 <a href="https://github.com/Tarun-23113/sales-forecasting">github.com/Tarun-23113/sales-forecasting</a>
+  🛍️ <b>𝗥𝗲𝘁𝗮𝗶𝗹 𝗧𝗿𝗮𝗻𝘀𝗮𝗰𝘁𝗶𝗼𝗻 𝗔𝗻𝗮𝗹𝘆𝘀𝗶𝘀</b><br>
+  Uncovered key sales trends and customer behavior insights using EDA on online retail transaction data<br>
 
-</p>
+  🔍 <b>Project Goal:</b><br>
+  • Identify top-performing products and loyal customers<br>
+  • Analyze seasonal sales patterns and customer purchase behavior<br>
+  • Derive foundational insights to support business strategy<br>
 
-<p align="center">
+  📦 <b>Stack:</b> Python, Pandas, Matplotlib, Seaborn
 
-  🔁 <b>𝗖𝘂𝘀𝘁𝗼𝗺𝗲𝗿 𝗖𝗵𝘂𝗿𝗻 𝗣𝗿𝗲𝗱𝗶𝗰𝘁𝗶𝗼𝗻</b><br>
-  ML classification model to detect churned customers<br>
-  🔗 <a href="https://github.com/Tarun-23113/customer-churn-prediction">github.com/Tarun-23113/customer-churn-prediction</a>
+  🔗 <a href="https://github.com/Tarun-23113/customer-churn-prediction" target="_blank">github.com/Tarun-23113/customer-churn-prediction</a>
 
 </p>
 
