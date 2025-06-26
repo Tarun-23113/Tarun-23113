@@ -56,33 +56,19 @@ I'm looking for an **𝗶𝗻𝘁𝗲𝗿𝗻𝘀𝗵𝗶𝗽** where I can appl
 <br>
 <p align="center">
 
-  📊 <b>𝗪𝗵𝗮𝘁 𝗠𝗮𝗸𝗲𝘀 𝗮 𝗦𝘁𝗮𝗿𝘁𝘂𝗽 𝗦𝘂𝗰𝗰𝗲𝗲𝗱?</b><br>
-  Exploratory data analysis on a Kaggle startup dataset to uncover success factors using Python, Pandas, Matplotlib & Seaborn<br>
+  🌍 <b>**World Development Analysis — Global Infrastructure & Growth Insights?**</b><br>
+  To uncover patterns and disparities in global development by analyzing how infrastructure, education, and economic indicators interact and evolve across countries and over time.<br>
 
-  🔍 <b>Key Insights:</b><br>
-  • Startups with higher funding, more funding rounds, and more investors are more likely to IPO or get acquired<br>
-  • Post-2000 startups show a higher yearly closure rate<br>
-  • Success is less tied to sector, and more linked to funding-related metrics<br>
+  🔍 <b>Key Highlights:</b><br>
+  • Analyzed World Bank Group official data across 13+ countries over 10 years to study how education, infrastructure, and economic indicators evolve over time.<br>
+  • Cleaned and transformed messy, multi-source time-series data to make it analysis-ready.<br>
+  • Visualized global disparities in access to clean fuels, electricity, education, and GDP using Seaborn and Matplotlib.<br>
+  • Extracted insights on development trends and inequality—critical for informed policy and strategic planning.<br>
 
-  🔗 <a href="https://github.com/Tarun-23113/My_Python_Projects/blob/master/Projects/What_Makes_Startups_Succeed%3F.ipynb" target="_blank">github.com/Tarun-23113/sales-forecasting</a>
+  🔗 <a href="https://colab.research.google.com/drive/1bqQEhLiU_6LXKaBPAK9jp29-MKS0kqGH?usp=sharing" target="_blank">Notebook link for Complete Project</a>
 
 </p>
 <br>
-<p align="center">
-
-  🛍️ <b>𝗥𝗲𝘁𝗮𝗶𝗹 𝗧𝗿𝗮𝗻𝘀𝗮𝗰𝘁𝗶𝗼𝗻 𝗔𝗻𝗮𝗹𝘆𝘀𝗶𝘀</b><br>
-  Uncovered key sales trends and customer behavior insights using EDA on online retail transaction data<br>
-
-  🔍 <b>Project Goal:</b><br>
-  • Identify top-performing products and loyal customers<br>
-  • Analyze seasonal sales patterns and customer purchase behavior<br>
-  • Derive foundational insights to support business strategy<br>
-
-  📦 <b>Stack:</b> Python, Pandas, Matplotlib, Seaborn
-
-  🔗 <a href="https://github.com/Tarun-23113/customer-churn-prediction" target="_blank">github.com/Tarun-23113/customer-churn-prediction</a>
-
-</p>
 
 ---
 
