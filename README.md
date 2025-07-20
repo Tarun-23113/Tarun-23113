@@ -55,6 +55,20 @@ I'm looking for an **𝗶𝗻𝘁𝗲𝗿𝗻𝘀𝗵𝗶𝗽** where I can appl
 </p>
 <br>
 <p align="center">
+  
+<b>🚀**Air Quality Prediction Dashboard with End-to-End Machine Learning**</b><br>
+  End to End ML model to predict Air Quality.<br>
+
+  🔍 <b>Key Highlights:</b><br>
+  • Designed and deployed an interactive Streamlit dashboard to predict significant Ozone (O3) level changes from sensor data using advanced ML models.<br>
+  • Automated the ML pipeline including data cleaning, feature engineering (time series/statistics), class balancing (SMOTE), and model training (Random Forest, Gradient Boosting, Logistic Regression).<br>
+  • Visualized global disparities in access to clean fuels, electricity, education, and GDP using Seaborn and Matplotlib.<br>
+  • Extracted insights on development trends and inequality—critical for informed policy and strategic planning.<br>
+
+  🔗 <a href="https://colab.research.google.com/drive/1bqQEhLiU_6LXKaBPAK9jp29-MKS0kqGH?usp=sharing" target="_blank">Notebook link for Complete Project</a>
+
+</p>
+<br>
 
   🌍 <b>**World Development Analysis — Global Infrastructure & Growth Insights?**</b><br>
   To uncover patterns and disparities in global development by analyzing how infrastructure, education, and economic indicators interact and evolve across countries and over time.<br>
@@ -62,10 +76,9 @@ I'm looking for an **𝗶𝗻𝘁𝗲𝗿𝗻𝘀𝗵𝗶𝗽** where I can appl
   🔍 <b>Key Highlights:</b><br>
   • Analyzed World Bank Group official data across 13+ countries over 10 years to study how education, infrastructure, and economic indicators evolve over time.<br>
   • Cleaned and transformed messy, multi-source time-series data to make it analysis-ready.<br>
-  • Visualized global disparities in access to clean fuels, electricity, education, and GDP using Seaborn and Matplotlib.<br>
-  • Extracted insights on development trends and inequality—critical for informed policy and strategic planning.<br>
-
-  🔗 <a href="https://colab.research.google.com/drive/1bqQEhLiU_6LXKaBPAK9jp29-MKS0kqGH?usp=sharing" target="_blank">Notebook link for Complete Project</a>
+  • Implemented live prediction interface and custom data visualizations, highlighting strengths in ML deployment, data preprocessing, and end-user focused solutions.<br>
+  
+  🔗 <a href="https://aqi-prediction-system-lg3qfemctnd55btfe5t2r3.streamlit.app/" target="_blank">Streamlit Model Link</a>
 
 </p>
 <br>
