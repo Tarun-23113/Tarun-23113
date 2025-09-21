@@ -35,6 +35,8 @@
 
 ### 🤖 Machine Learning & Deep Learning
 ![PyTorch](https://img.shields.io/badge/PyTorch-Expert_CNN_RNN_Transformers-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Computer-Vision](https://img.shields.io/badge/Computer_Vision-OpenCV-purple?style=for-the-badge)
+![Ultralytics](https://img.shields.io/badge/Ultralytics-purple?style=for-the-badge)
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-Advanced_ML_Algorithms-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![XGBoost](https://img.shields.io/badge/XGBoost-Gradient_Boosting_Expert-1F425F?style=for-the-badge)
 ![Time Series](https://img.shields.io/badge/Time_Series-Forecasting_Specialist-purple?style=for-the-badge)
@@ -74,6 +76,14 @@
 **📊 Results**: **91.06% accuracy** across 17 tumor types  
 **🏥 Metrics**: F1-Score, Specificity optimized for healthcare data  
 
+### 🔐 Smart Security System - AI-Powered Real-Time Surveillance
+[![Repo](https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github)](https://github.com/Tarun-23113/brain-tumor-classification)
+
+**🎯 Impact**: Intelligent security monitoring with automated threat detection  
+**🔬 Tech**: YOLO v8, OpenCV, DeepSORT, Computer Vision, Real-time Processing  
+**📊 Results**: 30+ FPS processing, 90%+ accuracy in object detection  
+**🏥 Metrics**: Multi-object tracking, anomaly detection, crowd alerts 
+
 ### 🌍 Air Quality Prediction Dashboard 
 [![Repo](https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github)](https://github.com/Tarun-23113/air-quality-prediction)
 [![Live Demo](https://img.shields.io/badge/🔴_LIVE-Interactive_Dashboard-success?style=for-the-badge)](https://aqi-prediction-system-lg3qfemctnd55btfe5t2r3.streamlit.app/)
@@ -99,6 +109,7 @@
 |---------|------------|------------|-------------|
 | 🧠 Brain Tumor AI | PyTorch, CNN, VGG16 | **91.06% Accuracy** | ✅ [Live Demo](https://tumordetection-jd9cbxjgyb5glaiaxxgpgu.streamlit.app/) |
 | 🌍 Air Quality Predictor | Time-Series, ML Pipeline | **Real-time Forecasting** | ✅ [Live Dashboard](https://aqi-prediction-system-lg3qfemctnd55btfe5t2r3.streamlit.app/) |
+| 🔐 Smart Security System | YOLO v8, OpenCV, Computer Vision | **Real-time Forecasting** | ✅ [Repo Link}()
 | 📊 Global Development | Python, Statistical Analysis | **13+ Countries, 10+ Years** | ✅ [Notebook](https://colab.research.google.com/drive/1bqQEhLiU_6LXKaBPAK9jp29-MKS0kqGH?usp=sharing) |
 
 ## 🏆 Certifications & Recognition
