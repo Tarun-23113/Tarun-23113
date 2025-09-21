@@ -77,7 +77,7 @@
 **🏥 Metrics**: F1-Score, Specificity optimized for healthcare data  
 
 ### 🔐 Smart Security System - AI-Powered Real-Time Surveillance
-[![Repo](https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github)](https://github.com/Tarun-23113/brain-tumor-classification)
+[![Repo](https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github)]((https://github.com/Tarun-23113/Smart-Security-System))
 
 **🎯 Impact**: Intelligent security monitoring with automated threat detection  
 **🔬 Tech**: YOLO v8, OpenCV, DeepSORT, Computer Vision, Real-time Processing  
