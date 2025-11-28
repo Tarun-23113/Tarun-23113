@@ -116,7 +116,7 @@
 # 🎓 Education
 
 ### **Vishwakarma Institute of Information Technology, Pune**  
-**B.Tech IT** — SGPA: 8.9 | CGPA: 7.87  
+**B.Tech IT** — CGPA: 7.87  
 
 ### **Narayana Junior College, Hyderabad**  
 **HSE — 96.8% (2022)**
