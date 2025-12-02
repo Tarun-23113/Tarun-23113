@@ -138,10 +138,10 @@ Always looking to collaborate, contribute, and grow by solving challenging probl
 # 🎓 Education
 
 ### **Vishwakarma Institute of Information Technology, Pune**  
-**B.Tech IT** — CGPA: 7.87  
+**B.Tech IT** — CGPA: 7.87  (May, 2026)
 
 ### **Narayana Junior College, Hyderabad**  
-**HSE — 96.8% (2022)**
+**HSE** — 96.8% (2022)
 
 ---
 
