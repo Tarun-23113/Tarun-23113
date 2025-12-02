@@ -37,7 +37,6 @@ Always looking to collaborate, contribute, and grow by solving challenging probl
 ---
 
 # 🎛️ Skills Breakdown  
----
 
 ## 🔹 **Programming Languages & Libraries**
 
@@ -48,7 +47,6 @@ Always looking to collaborate, contribute, and grow by solving challenging probl
 <img src="https://img.shields.io/badge/Java-Fundamentals-ED8B00?style=for-the-badge&logo=java"/>
 </div>
 
----
 
 ## 🤖 **Machine Learning & Deep Learning**
 
@@ -60,7 +58,6 @@ Always looking to collaborate, contribute, and grow by solving challenging probl
 <img src="https://img.shields.io/badge/Transformers-BART%20%7C%20Encoder--Decoder%20NLP-blueviolet?style=for-the-badge&logo=huggingface&logoColor=white"/>
 </div>
 
----
 
 ## ☁️ **Cloud & MLOps**
 
@@ -75,11 +72,9 @@ Always looking to collaborate, contribute, and grow by solving challenging probl
 
 # 🚀 Featured Projects
 
-<div align="center">
+<div align="left">
 
 ### *Turning ideas into impactful real-world solutions*
-
----
 
 ## 🧠 Brain Tumor Classification — *AI That Sees What You Can’t*
 🎯 **Detecting 17 types of brain tumors from MRI scans with high precision**
@@ -115,7 +110,6 @@ Always looking to collaborate, contribute, and grow by solving challenging probl
 **Highlights:** 100K+ records • Feature engineering • Performance optimization  
 ✨ *End-to-end prediction pipeline with deployment and real-world usability*
 
----
 
 </div>
 
