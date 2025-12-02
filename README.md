@@ -84,7 +84,7 @@ Always looking to collaborate, contribute, and grow by solving challenging probl
 ## 🧠 Brain Tumor Classification — *AI That Sees What You Can’t*
 🎯 **Detecting 17 types of brain tumors from MRI scans with high precision**
 
-[![Repo](https://img.shields.io/badge/GitHub_Repo-181717?style=for-the-badge&logo=github)](https://github.com/Tarun-23113/brain-tumor-classification)
+[![Repo](https://img.shields.io/badge/GitHub_Repo-181717?style=for-the-badge&logo=github)](https://github.com/Tarun-23113/BrainTumorModel)
 [![Demo](https://img.shields.io/badge/🔴_Live_Demo-success?style=for-the-badge)](https://tumordetection-jd9cbxjgyb5glaiaxxgpgu.streamlit.app/)
 
 **Tech Stack:** `PyTorch` • `Custom CNN Architecture` • `Inspired by VGG 16` • `Medical Imaging` • `Streamlit`    
@@ -96,7 +96,7 @@ Always looking to collaborate, contribute, and grow by solving challenging probl
 ## 📝 Text Summarization — *Transformers for Intelligent Understanding*
 🎯 **Automated document summarization using Encoder-Decoder architecture**
 
-[![Repo](https://img.shields.io/badge/GitHub_Repo-181717?style=for-the-badge&logo=github)](https://github.com/Tarun-23113/text-summarization)
+[![Repo](https://img.shields.io/badge/GitHub_Repo-181717?style=for-the-badge&logo=github)](https://github.com/Tarun-23113/Text-Summarization-using-Transformer)
 [![Demo](https://img.shields.io/badge/🔴_Live_App-success?style=for-the-badge)](https://text-summarization-using-transformers.streamlit.app/)
 
 **Tech Stack:** `BART (BERT + GPT)` • `Tokenization` • `Attention Mechanisms` • `HuggingFaceTransformers`  
@@ -108,7 +108,7 @@ Always looking to collaborate, contribute, and grow by solving challenging probl
 ## 🛒 Customer Churn Prediction — *Saving Revenue Before It Walks Away*
 🎯 **Predicting customer churn using behavior & financial patterns**
 
-[![Repo](https://img.shields.io/badge/GitHub_Repo-181717?style=for-the-badge&logo=github)](https://github.com/Tarun-23113/customer-churn)
+[![Repo](https://img.shields.io/badge/GitHub_Repo-181717?style=for-the-badge&logo=github)](https://github.com/Tarun-23113/Customer_Churn_Prediction)
 [![Demo](https://img.shields.io/badge/🔴_Live_App-success?style=for-the-badge)](https://customer-churn-prediction-ml-11.streamlit.app/)
 
 **Tech Stack:** `EDA` • `Feature Engineering` • `Statistical Modeling` • `Hyper-parameter Tuning` • `ML Pipeline`    
