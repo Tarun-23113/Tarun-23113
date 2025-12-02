@@ -3,24 +3,27 @@
 # Hi there! I'm **Tarun Tiwari** 👋  
 ### 🚀 *Machine Learning Engineer | Deep Learning Practitioner | Building Practical AI for Real-World Impact*
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=900&color=00E8FF&center=true&vCenter=true&width=650&lines=ML+Engineer+%7C+Deep+Learning+%7C+NLP;91.06%25+Brain+Tumor+Classification;Transformers+%7C+PyTorch+%7C+Scikit-Learn;Cloud+%7C+MLOps+%7C+End-to-End+AI+Deployment;Published+Researcher+%7C+Live+AI+Projects" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=900&color=00E8FF&center=true&vCenter=true&width=650&lines=Data+Analysis+%7C+Machine+Learning+%7C+Deep+Learning;NLP+%7C+Transformers+(BART);Python+%7C+Scikit-Learn+%7C+PyTorch;Cloud+%7C+MLOps+%7C+End-to-End+Deployment;Published+Researcher+%7C+Live+AI+Projects" />
 </div>
+
+# ✨ About Me
+I like turning **raw data** into **actionable intelligence** and real-world value.   
+Always looking to collaborate, contribute, and grow by solving challenging problems.     
+*On a mission to build technology that makes a meaningful difference.*
 
 ---
 
 # 🎯 What I have done
-- 🧠 **91.06% accuracy** — VGG16 Brain Tumor Classification (17 tumor types)  
-- 📝 Developed **Transformer-based text summarizer** using BART  
-- 📦 Built **End to End Machine Learning pipelines** with real-world datasets  
-- ☁️ Hands-on with **AWS, GCP, Docker, MLflow**  
-- 📄 **Published Research Paper** @ INCOFT 2025  
-- 🎓 Final-year IT @ VIIT Pune — **SGPA: 8.9 | CGPA: 7.87**
+- 🧠 Improved tumor classification **accuracy to 91.06%** by developing a custom architecture VGG16 on types of MRI Scans (17 tumor types)     
+- 📝 Reduced model overfitting by **15%** using **augmentation & batch normalization**       
+- 📦 Designed ML pipelines with automated feature engineering, scaling, model training & evaluation        
+- ☁️ Deployed inference APIs on **AWS EC2 + Docker** with monitoring via **MLflow**  
+- 📄 Processed & analyzed 100K+ e-commerce records to predict churn using **optimized ML models**  
+- 🎓 Final-year IT @ VIIT Pune — **CGPA: 7.87**
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/🚀_Portfolio-View_Projects-brightgreen?style=for-the-badge)](https://github.com/Tarun-23113)
-[![Resume](https://img.shields.io/badge/📄_Resume-View_PDF-blue?style=for-the-badge)](#)
-[![Status](https://img.shields.io/badge/💼_Open_To_Internships-orange?style=for-the-badge)](#)
+[![Resume](https://img.shields.io/badge/📄_Resume-View_PDF-blue?style=for-the-badge)](https://drive.google.com/file/d/11x4lgn2t8PyYPqXodmMUfbaLYNzZ3dPA/view?usp=sharing)
 
 </div>
 
@@ -70,46 +73,65 @@
 
 ---
 
-# 🚀 Featured Projects (Live Demos)
+# 🚀 Featured Projects
 
 <div align="center">
 
+### *Turning ideas into impactful real-world solutions*
+
+---
+
 ## 🧠 Brain Tumor Classification — *AI That Sees What You Can’t*
-[![Repo](https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github)](https://github.com/Tarun-23113/brain-tumor-classification)
+🎯 **Detecting 17 types of brain tumors from MRI scans with high precision**
+
+[![Repo](https://img.shields.io/badge/GitHub_Repo-181717?style=for-the-badge&logo=github)](https://github.com/Tarun-23113/brain-tumor-classification)
 [![Demo](https://img.shields.io/badge/🔴_Live_Demo-success?style=for-the-badge)](https://tumordetection-jd9cbxjgyb5glaiaxxgpgu.streamlit.app/)
 
-**Tech:** PyTorch, VGG16, CNN, Medical Imaging  
-**Highlights:** 91.06% Accuracy • F1-Score • Specificity  
+**Tech Stack:** `PyTorch` • `Custom CNN Architecture` • `Inspired by VGG 16` • `Medical Imaging` • `Streamlit`    
+**Impact & Metrics:** 91.06% Accuracy • F1-Score • Specificity • Data Augmentation  
+✨ *Built for healthcare prediction & radiology assistance*
 
 ---
 
-## 📝 Text Summarization — *Transformers NLP*
-[![Repo](https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github)](https://github.com/Tarun-23113/text-summarization)
+## 📝 Text Summarization — *Transformers for Intelligent Understanding*
+🎯 **Automated document summarization using Encoder-Decoder architecture**
+
+[![Repo](https://img.shields.io/badge/GitHub_Repo-181717?style=for-the-badge&logo=github)](https://github.com/Tarun-23113/text-summarization)
 [![Demo](https://img.shields.io/badge/🔴_Live_App-success?style=for-the-badge)](https://text-summarization-using-transformers.streamlit.app/)
 
-**Tech:** BART, Tokenization, Attention, HuggingFace  
-**Highlights:** Fine-tuned Encoder–Decoder Transformer  
+**Tech Stack:** `BART (BERT + GPT)` • `Tokenization` • `Attention Mechanisms` • `HuggingFaceTransformers`  
+**Highlights:** Fine-tuned Transformer • Clean UI App with Streamlit  
+✨ *Designed for research, knowledge extraction, and document automation*
 
 ---
 
-## 🛒 Customer Churn Prediction (100K+ Records)
-[![Repo](https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github)](https://github.com/Tarun-23113/customer-churn)
+## 🛒 Customer Churn Prediction — *Saving Revenue Before It Walks Away*
+🎯 **Predicting customer churn using behavior & financial patterns**
+
+[![Repo](https://img.shields.io/badge/GitHub_Repo-181717?style=for-the-badge&logo=github)](https://github.com/Tarun-23113/customer-churn)
 [![Demo](https://img.shields.io/badge/🔴_Live_App-success?style=for-the-badge)](https://customer-churn-prediction-ml-11.streamlit.app/)
 
-**Tech:** Scikit-Learn, GridSearchCV, EDA, ML Pipeline  
-**Highlights:** End-to-end prediction system  
+**Tech Stack:** `EDA` • `Feature Engineering` • `Statistical Modeling` • `Hyper-parameter Tuning` • `ML Pipeline`    
+**Highlights:** 100K+ records • Feature engineering • Performance optimization  
+✨ *End-to-end prediction pipeline with deployment and real-world usability*
+
+---
 
 </div>
 
 ---
 
-# 🏆 Certifications & Achievements  
-- 📄 Published Paper @ **INCOFT 2025**  
-- ☁️ **Google Cloud — Generative AI Internship**  
-- 🟧 **AWS Cloud Practitioner Essentials**  
-- 🟦 **IBM Data Science Certification**  
-- 🟩 **NASSCOM — ML: Linear Regression**  
-- 🟢 **NVIDIA Deep Learning Foundation**
+## 🏆 Certifications & Achievements
+### *Recognition earned through continuous learning & real-world contribution*     
+
+- 📄 **Research Publication @ INCOFT 2025**    [🔗 View Paper](https://www.scitepress.org/Link.aspx?doi=10.5220/0013633900004664)       
+  *Presented work on Deep Learning-based medical diagnosis with real-world applicability*
+
+- ☁️ **Google Cloud – Generative AI Internship**      [🔗 View Certificate](https://drive.google.com/file/d/1LDVAmoIAoEefcHUdlH5M8ElKs68NKAO8/view?usp=sharing)        
+  *Hands-on exposure to GenAI workflows, LLM integration, and cloud-based ML systems*
+
+- 🟦 **IBM Professional Data Science Certification**      [🔗 View Certificate](https://drive.google.com/file/d/1TWxcDrs4wX2Tag0PwQ02IFeStC2MYDPV/view)       
+  *Mastered statistical analysis, data preprocessing, model development & evaluation*
 
 ---
 
