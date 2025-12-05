@@ -23,7 +23,7 @@ Always looking to collaborate, contribute, and grow by solving challenging probl
 
 <div align="center">
 
-[![Resume](https://img.shields.io/badge/📄_Resume-View_PDF-blue?style=for-the-badge)](https://drive.google.com/file/d/11x4lgn2t8PyYPqXodmMUfbaLYNzZ3dPA/view?usp=sharing)
+[![Resume](https://img.shields.io/badge/📄_Resume-View_PDF-blue?style=for-the-badge)](https://drive.google.com/file/d/1L9T5bd2VfJlzRUCR4ofXQ39hTbDMECDL/view?usp=sharing)
 
 </div>
 
@@ -54,7 +54,6 @@ Always looking to collaborate, contribute, and grow by solving challenging probl
 <img src="https://img.shields.io/badge/PyTorch-CNN%20%7C%20Transfer%20Learning%20%7C%20Training-orange?style=for-the-badge&logo=pytorch&logoColor=white"/>
 <img src="https://img.shields.io/badge/Scikit--Learn-ML%20Algorithms%20%7C%20Pipelines-F7931E?style=for-the-badge&logo=scikit-learn"/>
 <img src="https://img.shields.io/badge/XGBoost-Gradient%20Boosting%20Models-1F425F?style=for-the-badge&logo=xgboost"/>
-<img src="https://img.shields.io/badge/OpenCV-Computer%20Vision%20Basics-5C2D91?style=for-the-badge&logo=opencv"/>
 <img src="https://img.shields.io/badge/Transformers-BART%20%7C%20Encoder--Decoder%20NLP-blueviolet?style=for-the-badge&logo=huggingface&logoColor=white"/>
 </div>
 
@@ -63,9 +62,7 @@ Always looking to collaborate, contribute, and grow by solving challenging probl
 
 <div>
 <img src="https://img.shields.io/badge/AWS-S3%2C%20EC2%2C%20SageMaker-232F3E?style=for-the-badge&logo=amazonaws"/>
-<img src="https://img.shields.io/badge/GCP-BigQuery%20%7C%20Vertex%20AI-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white"/>
 <img src="https://img.shields.io/badge/Docker-Containerization-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-<img src="https://img.shields.io/badge/MLflow-Experiment%20Tracking-0194E2?style=for-the-badge&logo=mlflow&logoColor=white"/>
 </div>
 
 ---
@@ -121,9 +118,6 @@ Always looking to collaborate, contribute, and grow by solving challenging probl
 - 📄 **Research Publication @ INCOFT 2025**    [🔗 View Paper](https://www.scitepress.org/Link.aspx?doi=10.5220/0013633900004664)       
   *Presented work on Deep Learning-based medical diagnosis with real-world applicability*
 
-- ☁️ **Google Cloud – Generative AI Internship**      [🔗 View Certificate](https://drive.google.com/file/d/1LDVAmoIAoEefcHUdlH5M8ElKs68NKAO8/view?usp=sharing)        
-  *Hands-on exposure to GenAI workflows, LLM integration, and cloud-based ML systems*
-
 - 🟦 **IBM Professional Data Science Certification**      [🔗 View Certificate](https://drive.google.com/file/d/1TWxcDrs4wX2Tag0PwQ02IFeStC2MYDPV/view)       
   *Mastered statistical analysis, data preprocessing, model development & evaluation*
 
@@ -132,7 +126,7 @@ Always looking to collaborate, contribute, and grow by solving challenging probl
 # 🎓 Education
 
 ### **Vishwakarma Institute of Information Technology, Pune**  
-**B.Tech IT** — CGPA: 7.87  (May, 2026)
+**B.Tech IT** — CGPA: 8.09  (May, 2026)
 
 ### **Narayana Junior College, Hyderabad**  
 **HSE** — 96.8% (2022)
