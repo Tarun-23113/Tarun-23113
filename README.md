@@ -19,7 +19,7 @@ Always looking to collaborate, contribute, and grow by solving challenging probl
 - 📦 Designed ML pipelines with automated feature engineering, scaling, model training & evaluation        
 - ☁️ Deployed inference APIs on **AWS EC2 + Docker** with monitoring via **MLflow**  
 - 📄 Processed & analyzed 100K+ e-commerce records to predict churn using **optimized ML models**  
-- 🎓 Final-year IT @ VIIT Pune — **CGPA: 7.87**
+- 🎓 Final-year IT @ VIIT Pune — **CGPA: 8.09**
 
 <div align="center">
 
