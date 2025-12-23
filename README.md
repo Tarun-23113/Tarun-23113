@@ -1,154 +1,141 @@
 <div align="center">
 
-# Hi there! I'm **Tarun Tiwari** 👋  
-### 🚀 *Machine Learning Engineer | Deep Learning Practitioner | Building Practical AI for Real-World Impact*
+# 👋 Hi, I’m **Tarun Tiwari**
+### 📊 Machine Learning & Data Analytics Enthusiast  
+*Building practical AI systems with clarity and purpose*
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=900&color=00E8FF&center=true&vCenter=true&width=650&lines=Data+Analysis+%7C+Machine+Learning+%7C+Deep+Learning;NLP+%7C+Transformers+(BART);Python+%7C+Scikit-Learn+%7C+PyTorch;Cloud+%7C+MLOps+%7C+End-to-End+Deployment;Published+Researcher+%7C+Live+AI+Projects" />
-</div>
-
-# ✨ About Me
-I like turning **raw data** into **actionable intelligence** and real-world value.   
-Always looking to collaborate, contribute, and grow by solving challenging problems.     
-*On a mission to build technology that makes a meaningful difference.*
-
----
-
-# 🎯 What I have done
-- 🧠 Improved tumor classification **accuracy to 91.06%** by developing a custom architecture VGG16 on types of MRI Scans (17 tumor types)     
-- 📝 Reduced model overfitting by **15%** using **augmentation & batch normalization**       
-- 📦 Designed ML pipelines with automated feature engineering, scaling, model training & evaluation        
-- ☁️ Deployed inference APIs on **AWS EC2 + Docker** with monitoring via **MLflow**  
-- 📄 Processed & analyzed 100K+ e-commerce records to predict churn using **optimized ML models**  
-- 🎓 Final-year IT @ VIIT Pune — **CGPA: 8.09**
-
-<div align="center">
-
-[![Resume](https://img.shields.io/badge/📄_Resume-View_PDF-blue?style=for-the-badge)](https://drive.google.com/file/d/1L9T5bd2VfJlzRUCR4ofXQ39hTbDMECDL/view?usp=sharing)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![ML](https://img.shields.io/badge/Machine%20Learning-Scikit--Learn-F7931E?style=flat&logo=scikit-learn)
+![DL](https://img.shields.io/badge/Deep%20Learning-PyTorch-EE4C2C?style=flat&logo=pytorch)
+![FastAPI](https://img.shields.io/badge/FastAPI-Backend-009688?style=flat&logo=fastapi)
+![Streamlit](https://img.shields.io/badge/Streamlit-Apps-FF4B4B?style=flat&logo=streamlit)
 
 </div>
 
 ---
 
-# 🛠️ Technical Arsenal  
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=python,pytorch,sklearn,opencv,aws,gcp,docker,git,mysql,vscode" />
-</div>
+## 👋 About Me
+
+I am a **final-year B.Tech IT student** at Vishwakarma Institute of Information Technology, Pune, with a strong interest in **data analysis, machine learning, and AI-driven applications**.
+
+I enjoy working on real world problems to create **useful, real-world solutions**. My focus is on building systems that are **clear, explainable, and reliable**, rather than just training models in isolation.
 
 ---
 
-# 🎛️ Skills Breakdown  
+## 🎯 What I’ve Worked On
 
-## 🔹 **Programming Languages & Libraries**
-
-<div>
-<img src="https://img.shields.io/badge/Python-Pandas%2C%20NumPy%2C%20Scikit--learn-0175C2?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/R-Basics-276DC3?style=for-the-badge&logo=r&logoColor=white"/>
-<img src="https://img.shields.io/badge/SQL-Database%20Management-444444?style=for-the-badge&logo=mysql&logoColor=white"/>
-<img src="https://img.shields.io/badge/Java-Fundamentals-ED8B00?style=for-the-badge&logo=java"/>
-</div>
-
-
-## 🤖 **Machine Learning & Deep Learning**
-
-<div>
-<img src="https://img.shields.io/badge/PyTorch-CNN%20%7C%20Transfer%20Learning%20%7C%20Training-orange?style=for-the-badge&logo=pytorch&logoColor=white"/>
-<img src="https://img.shields.io/badge/Scikit--Learn-ML%20Algorithms%20%7C%20Pipelines-F7931E?style=for-the-badge&logo=scikit-learn"/>
-<img src="https://img.shields.io/badge/XGBoost-Gradient%20Boosting%20Models-1F425F?style=for-the-badge&logo=xgboost"/>
-<img src="https://img.shields.io/badge/Transformers-BART%20%7C%20Encoder--Decoder%20NLP-blueviolet?style=for-the-badge&logo=huggingface&logoColor=white"/>
-</div>
-
-
-## ☁️ **Cloud & MLOps**
-
-<div>
-<img src="https://img.shields.io/badge/AWS-S3%2C%20EC2%2C%20SageMaker-232F3E?style=for-the-badge&logo=amazonaws"/>
-<img src="https://img.shields.io/badge/Docker-Containerization-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-</div>
+- Built **predictive machine learning models** for real-world datasets, including customer churn analysis on **100K+ records**
+- Built **CNN model** for MRI image classification, achieving **91.06% accuracy** across 17 brain tumor classes
+- Designed **end-to-end ML workflows**, covering data preprocessing, feature engineering, model training, evaluation, and inference
+- Integrated trained models into **backend-driven applications** using FastAPI and Streamlit
+- Published a **research paper at INCOFT 2025** based on my brain tumor classification project
 
 ---
 
-# 🚀 Featured Projects
+## 🛠️ Technical Skills
 
-<div align="left">
+### Programming & Data
+- Python, SQL  
+- Data preprocessing, EDA, feature engineering
 
-### *Turning ideas into impactful real-world solutions*
+### Machine Learning & Deep Learning
+- Supervised & Unsupervised Learning  
+- Scikit-learn pipelines  
+- CNNs, Transfer Learning  
+- Model evaluation and tuning
 
-## 🧠 Brain Tumor Classification — *AI That Sees What You Can’t*
-🎯 **Detecting 17 types of brain tumors from MRI scans with high precision**
+### AI & NLP
+- Transformer-based models (BERT, BART, GPT – exposure)
+- LLM integration for controlled task generation
 
-[![Repo](https://img.shields.io/badge/GitHub_Repo-181717?style=for-the-badge&logo=github)](https://github.com/Tarun-23113/BrainTumorModel)
-[![Demo](https://img.shields.io/badge/🔴_Live_Demo-success?style=for-the-badge)](https://tumordetection-jd9cbxjgyb5glaiaxxgpgu.streamlit.app/)
-
-**Tech Stack:** `PyTorch` • `Custom CNN Architecture` • `Inspired by VGG 16` • `Medical Imaging` • `Streamlit`    
-**Impact & Metrics:** 91.06% Accuracy • F1-Score • Specificity • Data Augmentation  
-✨ *Built for healthcare prediction & radiology assistance*
-
----
-
-## 📝 Text Summarization — *Transformers for Intelligent Understanding*
-🎯 **Automated document summarization using Encoder-Decoder architecture**
-
-[![Repo](https://img.shields.io/badge/GitHub_Repo-181717?style=for-the-badge&logo=github)](https://github.com/Tarun-23113/Text-Summarization-using-Transformer)
-[![Demo](https://img.shields.io/badge/🔴_Live_App-success?style=for-the-badge)](https://text-summarization-using-transformers.streamlit.app/)
-
-**Tech Stack:** `BART (BERT + GPT)` • `Tokenization` • `Attention Mechanisms` • `HuggingFaceTransformers`  
-**Highlights:** Fine-tuned Transformer • Clean UI App with Streamlit  
-✨ *Designed for research, knowledge extraction, and document automation*
+### Backend & Tools
+- FastAPI, REST APIs  
+- Streamlit  
+- MySQL  
+- Git & GitHub  
+- Docker 
 
 ---
 
-## 🛒 Customer Churn Prediction — *Saving Revenue Before It Walks Away*
-🎯 **Predicting customer churn using behavior & financial patterns**
+## 🚀 Featured Projects
 
-[![Repo](https://img.shields.io/badge/GitHub_Repo-181717?style=for-the-badge&logo=github)](https://github.com/Tarun-23113/Customer_Churn_Prediction)
-[![Demo](https://img.shields.io/badge/🔴_Live_App-success?style=for-the-badge)](https://customer-churn-prediction-ml-11.streamlit.app/)
+### 🧠 Brain Tumor Classification
+**Deep Learning-based Medical Image Classification**
 
-**Tech Stack:** `EDA` • `Feature Engineering` • `Statistical Modeling` • `Hyper-parameter Tuning` • `ML Pipeline`    
-**Highlights:** 100K+ records • Feature engineering • Performance optimization  
-✨ *End-to-end prediction pipeline with deployment and real-world usability*
+- Trained a custom CNN on ~6,000 MRI scans covering **17 tumor classes**
+- Achieved **91.06% test accuracy** using data augmentation and regularization
+- Evaluated performance using accuracy and class-wise metrics
+- Built a Streamlit-based application for real-time image inference
 
-
-</div>
-
----
-
-## 🏆 Certifications & Achievements
-### *Recognition earned through continuous learning & real-world contribution*     
-
-- 📄 **Research Publication @ INCOFT 2025**    [🔗 View Paper](https://www.scitepress.org/Link.aspx?doi=10.5220/0013633900004664)       
-  *Presented work on Deep Learning-based medical diagnosis with real-world applicability*
-
-- 🟦 **IBM Professional Data Science Certification**      [🔗 View Certificate](https://drive.google.com/file/d/1TWxcDrs4wX2Tag0PwQ02IFeStC2MYDPV/view)       
-  *Mastered statistical analysis, data preprocessing, model development & evaluation*
+🔗 **Repository:** https://github.com/Tarun-23113/BrainTumorModel  
+🔗 **App Demo:** https://tumordetection-jd9cbxjgyb5glaiaxxgpgu.streamlit.app/
 
 ---
 
-# 🎓 Education
+### 🛒 Customer Churn Prediction
+**Predictive Analytics for Business Decision-Making**
 
-### **Vishwakarma Institute of Information Technology, Pune**  
-**B.Tech IT** — CGPA: 8.09  (May, 2026)
+- Analyzed noisy relational e-commerce data with **100K+ records**
+- Performed feature engineering and trained multiple ML models
+  (XGBoost, Random Forest, Gradient Boosting, Logistic Regression)
+- Selected the best-performing model using systematic evaluation
+- Built an inference pipeline using FastAPI and Streamlit
 
-### **Narayana Junior College, Hyderabad**  
-**HSE** — 96.8% (2022)
+🔗 **Repository:** https://github.com/Tarun-23113/Customer_Churn_Prediction  
 
 ---
 
-# 🤝 Let’s Connect
+### 📝 Smart Task Planner — LLM-Assisted Planning System  
+**Backend-Driven Task Orchestration with Controlled AI**
 
-<div align="center">
+- Built a system that converts high-level user goals into structured task plans with timelines and lifecycle tracking  
+- Designed REST APIs using FastAPI to handle plan creation, updates, retrieval, and persistence  
+- Integrated an LLM strictly for initial task generation, while scheduling, state transitions, and data consistency are handled by deterministic backend logic  
+- Stored plans and tasks in a relational database (MySQL) and exposed functionality through a Streamlit interface  
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tarun-tiwari-0b1621283/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tarun.22210506@viit.ac.in)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Tarun-23113)
+🔗 **Repository:** https://github.com/Tarun-23113/Smart-Task-Planner  
 
-</div>
+---
+
+## 🏆 Publications & Certifications
+
+- **Research Publication – INCOFT 2025**  
+  *Brain tumor classification using deep learning*
+
+- **IBM Data Science Professional Certificate**  
+  *Data analysis, ML workflows, model development & evaluation*
+
+- **AWS Academy Graduate – Cloud Foundations**  
+  *Core cloud concepts and services*
+
+---
+
+## 🎓 Education
+
+**Vishwakarma Institute of Information Technology, Pune**  
+B.Tech in Information Technology  
+CGPA: **8.09 / 10** | Expected Graduation: **2026**
+
+**Narayana Junior College, Hyderabad**  
+Higher Secondary Education — **96.8%**
 
 ---
 
 <div align="center">
 
-![Views](https://komarev.com/ghpvc/?username=Tarun-23113&color=brightgreen&style=for-the-badge)
+## 🤝 Connect With Me
 
-### ✨ *“Transforming data into insights, and insights into impact.”*
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Tarun%20Tiwari-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tarun-tiwari-0b1621283/)
+[![GitHub](https://img.shields.io/badge/GitHub-Tarun--23113-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Tarun-23113)
+[![Email](https://img.shields.io/badge/Email-tarun.22210506%40viit.ac.in-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tarun.22210506@viit.ac.in)
+
+---
+
+</div>
+
+<div align="center">
+
+*Focused on learning, building, and growing through real-world AI and data problems.*
 
 </div>
