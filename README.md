@@ -94,7 +94,7 @@ I enjoy working on real world problems to create **useful, real-world solutions*
 - Integrated an LLM strictly for initial task generation, while scheduling, state transitions, and data consistency are handled by deterministic backend logic  
 - Stored plans and tasks in a relational database (MySQL) and exposed functionality through a Streamlit interface  
 
-🔗 **Repository:** https://github.com/Tarun-23113/Smart-Task-Planner  
+🔗 **Repository:** https://github.com/Tarun-23113/smart_task_planner_ai  
 
 ---
 
