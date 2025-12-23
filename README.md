@@ -127,7 +127,6 @@ Higher Secondary Education — **96.8%**
 ## 🤝 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Tarun%20Tiwari-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tarun-tiwari-0b1621283/)
-[![GitHub](https://img.shields.io/badge/GitHub-Tarun--23113-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Tarun-23113)
 [![Email](https://img.shields.io/badge/Email-tarun.22210506%40viit.ac.in-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tarun.22210506@viit.ac.in)
 
 ---
